@@ -1,9 +1,7 @@
 # Note
 Note
-<!doctype html>
 <html>
     <head>
-        <title>Note</title>
         <link rel="stylesheet" href="style.css">
         <img src="Image/STK-20240827-WA0013.webp"
     </head>
